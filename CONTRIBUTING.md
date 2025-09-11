@@ -1,6 +1,7 @@
 # CONTRIBUTING
 
 ```
+Merci de bien lire attentivement les règles de contribution.
 Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
 C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire.
 ```
